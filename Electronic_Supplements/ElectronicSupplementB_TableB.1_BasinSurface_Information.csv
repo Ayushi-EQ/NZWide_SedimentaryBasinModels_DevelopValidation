@@ -1,0 +1,46 @@
+Basin Name,Type,Basin Surface,Modeling Notes
+Alexandra,1,Top of basement,
+Balclutha,1,Base of Quaternary,
+Canterbury,4,Multiple surfaces,"1) Top of Pliocene, Miocene, Paleogene, and basement, with Banks Peninsula Volcanics subregion 2) Geologic layer-specific velocities prescribed"
+Castle Hill,1,Base of Quaternary,
+Cheviot,1,Top of basement,
+Collingwood,1,Base of Quaternary,
+Dunedin,1,Base of Quaternary,
+Gisborne,1,Base of Quaternary,
+Greater Wellington,1,Base of Quaternary,
+Hakataramea,1,Top of basement,
+Hanmer,1,Base of Quaternary,Hope and Hanmer faults modeled
+Hawke's Bay,1,Base of Quaternary,
+Kaikōura,2,Top of basement,
+Karamea,1,Base of Quaternary,
+Mackenzie,1,Base of Quaternary,
+Marlborough,1,Top of basement,
+Mosgiel,1,Base of Quaternary,
+Murchison,1,Base of Quaternary,
+Napier,1,Base of Quaternary,
+NE Otago,1,Top of basement,
+Nelson-Tasman,3,Top of basement,"Stiffer velocities prescribed, as shown in the main text"
+North Canterbury,1,Top of basement,
+Omaio Bay,1,Base of Quaternary,
+Palmerston North,1,Multiple surfaces,"1) Top of Quaternary and Top of basement modeled 2) Several faults from the NZCFM and anticlines modeled 3) Generic basin model down to the base of the Quaternary basement; constant velocities then prescribed, averaged across the Pliocene, non-volcanic Miocene, Paleogene, and Late Cretaceous from the Canterbury basin model between the two surfaces"
+Porirua,1,Base of Quaternary,
+Queen Charlotte,1,Base of Quaternary,
+Ranfurly,1,Top of basement,
+Rarakau,1,Base of Quaternary,
+Southern Hawke's Bay,1,Base of Quaternary,
+Southland,2,Top of basement,Faults in the northwestern corner of the Lower Southland basin modeled
+Springs Junction,1,Base of Quaternary,
+Te Anau,1,Base of Quaternary,
+Te Araroa,1,Base of Quaternary,
+Tolaga Bay,1,Base of Quaternary,
+Waiapu,1,Base of Quaternary,
+Waikato-Hauraki,1,Base of Quaternary,
+Wairarapa,1,Base of Quaternary,
+Waitaki,1,Top of basement,
+Wakatipu,1,Base of Quaternary,
+Wanaka,1,Base of Quaternary,
+Wellington,3,Base of Quaternary,
+West Coast,1,Top of Miocene,South Westland Fault modeled
+Westport,1,Top of Early Miocene,"1) Stiffer velocities prescribed, as for Nelson-Tasman 2) Cape Foulwind Fault modeled"
+Whakatāne,1,Base of Quaternary,1) The Tauranga region combined with the Whakatane region 2) Incorporates cross-sections for the Tauranga region from the conceptual geological model of White et al. (2009) 3) Edgecumbe and Matata Faults modeled (Whakatane Graben)
+Whangaparoa,1,Base of Quaternary,
