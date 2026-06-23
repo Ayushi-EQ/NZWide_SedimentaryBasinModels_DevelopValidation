@@ -88,7 +88,6 @@ Contains the observed and simulated intensity measures (IMs) used in the analyse
 - `Simulated_IMs_Withbasin.csv`: simulated IMs with explicit basin representation.
 - `Events.csv` and `Stations.csv`: metadata mapping `event_id` to the event name and `stat_id` to the station code.
 
-More details on the observed and simulated ground-motion database can be found in [reference].
 
 ## 3. Residuals/
 
