@@ -1,0 +1,2 @@
+# NZWide_SedimentaryBasinModels_DevelopValidation
+NZ-wide sedimentary basin models development and validation
