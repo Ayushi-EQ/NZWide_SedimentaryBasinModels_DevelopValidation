@@ -3,7 +3,7 @@
 This repository contains the intensity measures, residuals, scripts, and electronic supplements accompanying the paper:
 **Development and validation of New Zealand-wide sedimentary basin models for broadband ground-motion simulation**  
 Ayushi Tiwari, Brendon Bradley, Robin Lee, and Felipe Kuncar  
-*Earthquake Spectra* — manuscript submitted for publication.
+*Earthquake Spectra* - manuscript submitted for publication.
 
 The NZVM version 2.09 is released with this article. The velocity model code and data are archived separately on Zenodo (code: https://doi.org/10.5281/zenodo.19228321; data: https://doi.org/10.5281/zenodo.19228330).
 
@@ -34,23 +34,23 @@ NZWide_SedimentaryBasinModels_DevelopValidation/
 |   |-- ElectronicSupplementB_TableB.1_BasinSurface_Information.csv
 |   |-- ElectronicSupplementC_TableC.1_Event_Information.csv
 |   |-- ElectronicSupplementC_TableC.2_Station_Information.csv
-|   `-- FigureB.1_Basindepthplots/
+|   |-- FigureB.1_Basindepthplots/
 |       |-- tier_500m/
 |       |-- tier_1000m/
 |       |-- tier_2000m/
 |       |-- tier_3000m/
-|       `-- tier_4000m/
+|       |-- tier_4000m/
 |
 |-- IMs/
 |   |-- Events.csv
 |   |-- Stations.csv
 |   |-- Observed_IMs.csv
 |   |-- Simulated_IMs_Nobasin.csv
-|   `-- Simulated_IMs_Withbasin.csv
+|   |-- Simulated_IMs_Withbasin.csv
 |
 |-- Residuals/
 |   |-- Nobasin/
-|   `-- Withbasin/
+|   |-- Withbasin/
 |
 |-- Scripts_for_figures/
 |   |-- Figure_1.py
@@ -62,11 +62,11 @@ NZWide_SedimentaryBasinModels_DevelopValidation/
 |   |-- Figure_9.py
 |   |-- Figure_10_12_13_14_15_16_17_18.py
 |   |-- Figure_11_abde.py
-|   `-- Figure_11_cf.py
+|   |-- Figure_11_cf.py
 |
 |-- LICENSE
-`-- README.md
-
+|-- README.md
+```
 
 # Folder descriptions
 
