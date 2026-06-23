@@ -1,0 +1,48 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the accompanying paper (see preferred-citation below)."
+title: "Development and validation of New Zealand-wide sedimentary basin models for broadband ground-motion simulation"
+type: dataset
+authors:
+  - given-names: Ayushi
+    family-names: Tiwari
+    email: ayushi.tiwari@pg.canterbury.ac.nz
+    affiliation: University of Canterbury
+    orcid: "https://orcid.org/0000-0002-8713-0881"
+  - given-names: Brendon
+    family-names: Bradley
+    email: brendon.bradley@canterbury.ac.nz
+    affiliation: University of Canterbury
+    orcid: "https://orcid.org/0000-0002-4450-314X"
+  - given-names: Robin
+    family-names: Lee
+    email: robin.lee@canterbury.ac.nz
+    affiliation: University of Canterbury
+    orcid: "https://orcid.org/0000-0003-1033-5923"
+  - given-names: Felipe
+    family-names: Kuncar
+    email: felipe.kuncar@canterbury.ac.nz
+    affiliation: University of Canterbury
+    orcid: "https://orcid.org/0000-0003-2779-2290"
+
+repository-code: "https://github.com/Ayushi-EQ/NZWide_SedimentaryBasinModels_DevelopValidation"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Development and validation of New Zealand-wide sedimentary basin models for broadband ground-motion simulation"
+  authors:
+    - given-names: Ayushi
+      family-names: Tiwari
+      orcid: "https://orcid.org/0000-0002-8713-0881"
+    - given-names: Brendon
+      family-names: Bradley
+      orcid: "https://orcid.org/0000-0002-4450-314X"
+    - given-names: Robin
+      family-names: Lee
+      orcid: "https://orcid.org/0000-0003-1033-5923"
+    - given-names: Felipe
+      family-names: Kuncar
+      orcid: "https://orcid.org/0000-0003-2779-2290"
+  journal: "Earthquake Spectra"
+  year: 2026
+  notes: "Manuscript submitted for publication; citation details to be updated upon acceptance."
+license: MIT

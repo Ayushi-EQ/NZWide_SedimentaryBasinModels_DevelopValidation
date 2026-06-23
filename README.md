@@ -93,7 +93,7 @@ Contains the observed and simulated intensity measures (IMs) used in the analyse
 
 Residuals from the Linear Mixed-Effects regression (MERA), computed separately for each basin case. The two subfolders, `Withbasin/` and `Nobasin/`, contain the same set of files:
 
-- `bias_std_df.csv`: bias and standard-deviation components for all 211 IMs. The columns are the bias term (`bias`) and its standard error (`bias_std_err`), the between-event standard deviation (`tau`), the between-site (site-to-site) standard deviation (`phi_S2S`), the remaining within-event residual standard deviation (`phi_w`), and the total standard deviation (`sigma`, the root-sum-square of `tau`, `phi_S2S`, and `phi_w`).
+- `bias_std_df.csv`: bias and standard-deviation components for all 210 IMs. The columns are the bias term (`bias`) and its standard error (`bias_std_err`), the between-event standard deviation (`tau`), the between-site (site-to-site) standard deviation (`phi_S2S`), the remaining within-event residual standard deviation (`phi_w`), and the total standard deviation (`sigma`, the root-sum-square of `tau`, `phi_S2S`, and `phi_w`).
 - `event_res_df.csv`: between-event residuals for the 73 events.
 - `event_cond_std_df.csv`: uncertainty in the point estimate of the between-event residuals (conditional standard deviation).
 - `site_res_df.csv`: site-to-site residuals for the 300 stations.
